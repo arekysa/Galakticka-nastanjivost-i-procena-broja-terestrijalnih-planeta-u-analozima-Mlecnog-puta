@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+illustris-python
+pytest
+nbmake
+nbqa
+pylint

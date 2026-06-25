@@ -1,0 +1,11 @@
+#Ignoriši kompletne sirove IllustrisTNG podatke
+data/TNG100-1/
+
+#Ignoriši virtuelno okruženje
+venv_astro/
+
+#Ignoriši skrivene Jupyter fajlove i keš
+.ipynb_checkpoints/
+pycache/
+*.pyc
+.pytest_cache/
