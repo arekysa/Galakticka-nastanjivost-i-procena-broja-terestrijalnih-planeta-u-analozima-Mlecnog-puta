@@ -1,4 +1,4 @@
-![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-blue)
+![UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-blue)
 
 # Galaktička nastanjivost i procena broja terestrijalnih planeta u analozima Mlečnog puta
 
@@ -57,16 +57,6 @@ python download_data.py
 
 Ova skripta preuzima `mw_analogs.csv` — podskup TNG100 galaksija koji odgovara opsegu masa Mlečnog puta (10^10.4 – 10^11.0 M☉).
 
-## Naučni kontekst
-
-Projekat je direktno povezan sa radom:
-
-> Mitrašinović, A., Pavlov, N., Vukotić, B., & Milošević, S. (2026).
-> *The habitability trade-off: chemical decoupling and quenching in massive galaxies.*
-> Astronomy & Astrophysics (u štampi).
-
-Rad koristi celu TNG100 populaciju masivnih galaksija (log M* ≥ 10), dok mi fokus stavljamo na uži opseg MW analoga.
-
 ## Podaci
 
 Podaci su generisani iz [IllustrisTNG TNG100-1](https://www.tng-project.org/) simulacije (javno dostupna). Fajl `mw_analogs.csv` sadrži filtrirani podskup subhalo kataloga (snap=99, z=0) sa sledećim kolonama:
@@ -83,8 +73,3 @@ Podaci su generisani iz [IllustrisTNG TNG100-1](https://www.tng-project.org/) si
 ## Zavisnosti
 
 Videti `requirements.txt`. Ključni paketi: `numpy`, `pandas`, `matplotlib`, `scipy`, `illustris_python`.
-
-## Autor
-
-Student kursa MASS-UBMATF — Astrostatistika 2026  
-Matematički fakultet, Univerzitet u Beogradu
