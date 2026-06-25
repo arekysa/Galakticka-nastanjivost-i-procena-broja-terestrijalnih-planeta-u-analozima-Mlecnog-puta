@@ -1,4 +1,4 @@
-![UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-blue)
+![UBMATF](https://img.shields.io/badge/UBMATF-Astrostatistics_2026-blue)
 
 # Galaktička nastanjivost i procena broja terestrijalnih planeta u analozima Mlečnog puta
 
